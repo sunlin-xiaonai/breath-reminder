@@ -1,5 +1,9 @@
 # Take a Break - 休息一下
 
+<div align="center">
+  <img src="./image.png" alt="Take a Break Preview" width="800px" />
+</div>
+
 ## 💡 Inspiration
 In our modern work environment, especially for those of us spending long hours in front of computers, the importance of taking regular breaks is often overlooked. This project was born from a personal experience of dealing with the negative effects of prolonged sitting and continuous screen time.
 
